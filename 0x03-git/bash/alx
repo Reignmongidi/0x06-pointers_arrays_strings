@@ -1,2 +1,4 @@
-echo "ALX School is cool!"
+<<<<<<< HEAD
+echo "ALX School"
+>>>>>>> update_script
 #!/bin/bashi
